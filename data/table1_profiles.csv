@@ -1,0 +1,6 @@
+profile,source,challenge,participants,visit_units,early_min,late_min,features_retained,features_source_total,transform,analysis_unit,median_rho2,ci95_low,ci95_high
+CN-lipid (ST003894),ST003894,not separately stratified,24,96,120,180,436,437,log2(x+1),visit unit; repeated visits clustered by participant,0.2904980624758937,0.26305769702783277,0.33522476140442514
+CN-metab (ST003895),ST003895,not separately stratified,24,96,120,180,423,424,log2(x+1),visit unit; repeated visits clustered by participant,0.40295951484527065,0.3330273595634223,0.4888173643570297
+CN-meal (ST003896),ST003896,not separately stratified,147,147,60,120,423,424,log2(x+1),visit unit; repeated visits clustered by participant,0.3156416160707526,0.26940211746168613,0.35340133941791047
+HuMet OGTT,MTBLS89,OGTT,15,15,120,180,434,598,log2(x+1),participant; baseline/early/late joint complete,0.6091680974130846,0.4203424881670548,0.7627658201206972
+HuMet OLTT,MTBLS89,OLTT,15,15,120,180,461,598,log2(x+1),participant; baseline/early/late joint complete,0.4698513383886402,0.41146139875308463,0.5782841458520024

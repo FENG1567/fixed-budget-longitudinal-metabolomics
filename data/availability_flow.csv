@@ -1,0 +1,5 @@
+"dataset","source_roster_subjects","included_features","candidate_features","excluded_by_protocol","missing_nonfinite_excluded","nonpositive_excluded","fully_unmeasured_subjects_excluded","panel_rule"
+"PoMet_205866_primary","33","37","39","2","2","0","1","common complete positive values at all required visits across the source roster"
+"PoMet_196764_sensitivity","33","15","15","0","0","0","1","common complete positive values at all required visits across the source roster"
+"ST003348_REST_STAT_REC3_secondary","19","593","593","0","0","0","0","common complete positive values at all required visits across the source roster"
+"ST003348_REST_REC3_REC22_exploratory_new_visit","19","593","593","0","0","0","0","common complete positive values at all required visits across the source roster"

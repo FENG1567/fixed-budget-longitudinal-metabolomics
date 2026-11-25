@@ -1,0 +1,6 @@
+setting,visit_component_1_low,visit_component_1_high,visit_component_2_low,visit_component_2_high,visit_component_3_low,visit_component_3_high,visit_component_4_low,visit_component_4_high,assay_price_low,assay_price_high,median_delta_v,q1_delta_v,q3_delta_v
+United States,45.5,78,20,50,25,60,5,20,88,225,0.9693777338367866,0.7936006412666375,1.2400908497821919
+China,50,120,30,80,50,150,5,20,400,1000,0.36048044721562456,0.2942701988850919,0.46043123961389254
+
+illustrative_fixed_price_usd,fixed_assay_price_usd,fixed_rho2,n_visit_cost_draws,threshold_crossing_fraction
+United States,50,0.82,100000,0.99898

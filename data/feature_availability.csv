@@ -1,0 +1,1243 @@
+dataset,feature,status
+PoMet_205866_primary,glucose,excluded by protocol
+PoMet_205866_primary,insulin,excluded by protocol
+PoMet_205866_primary,alanine,included
+PoMet_205866_primary,arginine,included
+PoMet_205866_primary,asparagine,included
+PoMet_205866_primary,aspartate,included
+PoMet_205866_primary,glutamate,included
+PoMet_205866_primary,glutamine,included
+PoMet_205866_primary,histidine,included
+PoMet_205866_primary,isoleucine,included
+PoMet_205866_primary,leucine,included
+PoMet_205866_primary,lysine,included
+PoMet_205866_primary,phenylalanine,included
+PoMet_205866_primary,proline,included
+PoMet_205866_primary,threonine,included
+PoMet_205866_primary,tryptophan,included
+PoMet_205866_primary,tyrosine,included
+PoMet_205866_primary,valine,included
+PoMet_205866_primary,betaine,included
+PoMet_205866_primary,choline,included
+PoMet_205866_primary,cystathionine,included
+PoMet_205866_primary,cysteine,included
+PoMet_205866_primary,dimethylglycine,included
+PoMet_205866_primary,glycine,included
+PoMet_205866_primary,thcy,included
+PoMet_205866_primary,methionine,included
+PoMet_205866_primary,metso,included
+PoMet_205866_primary,sarcosine,included
+PoMet_205866_primary,serine,included
+PoMet_205866_primary,cobalamin,included
+PoMet_205866_primary,fmn,included
+PoMet_205866_primary,folate,excluded: missing/non-finite at required visit
+PoMet_205866_primary,mnam,included
+PoMet_205866_primary,mma,included
+PoMet_205866_primary,nam,excluded: missing/non-finite at required visit
+PoMet_205866_primary,pl,included
+PoMet_205866_primary,plp,included
+PoMet_205866_primary,pa,included
+PoMet_205866_primary,riboflavin,included
+PoMet_205866_primary,thiamine,included
+PoMet_205866_primary,tmp,included
+PoMet_196764_sensitivity,hdl,included
+PoMet_196764_sensitivity,ldl,included
+PoMet_196764_sensitivity,tg,included
+PoMet_196764_sensitivity,bhb,included
+PoMet_196764_sensitivity,acac,included
+PoMet_196764_sensitivity,carnitine,included
+PoMet_196764_sensitivity,acetylcarnitine,included
+PoMet_196764_sensitivity,propionylcarnitine,included
+PoMet_196764_sensitivity,butyrylcarnitine,included
+PoMet_196764_sensitivity,isovalerylcarnitine,included
+PoMet_196764_sensitivity,glutarylcarnitine,included
+PoMet_196764_sensitivity,hexanoylcarnitine,included
+PoMet_196764_sensitivity,octanoylcarnitine,included
+PoMet_196764_sensitivity,decanoylcarnitine,included
+PoMet_196764_sensitivity,dodecanoylcarnitine,included
+ST003348_REST_STAT_REC3_secondary,1:1-Methyladenosine,included
+ST003348_REST_STAT_REC3_secondary,2:1-Methylguanosine,included
+ST003348_REST_STAT_REC3_secondary,3:1-Methylhistidine,included
+ST003348_REST_STAT_REC3_secondary,4:1-Methylinosine,included
+ST003348_REST_STAT_REC3_secondary,5:1-Methylnicotinamide,included
+ST003348_REST_STAT_REC3_secondary,6:1-Pyrroline-5-carboxylic acid,included
+ST003348_REST_STAT_REC3_secondary,7:25-Hydroxyvitamin D3,included
+ST003348_REST_STAT_REC3_secondary,8:2-Amino-5-methylhexanoic acid,included
+ST003348_REST_STAT_REC3_secondary,9:2-Aminoheptanoic acid,included
+ST003348_REST_STAT_REC3_secondary,10:2-Aminonicotinic acid,included
+ST003348_REST_STAT_REC3_secondary,11:2-Aminooctanoic acid,included
+ST003348_REST_STAT_REC3_secondary,12:2-Chlorophenylalanine,included
+ST003348_REST_STAT_REC3_secondary,13:2-Methylguanosine,included
+ST003348_REST_STAT_REC3_secondary,14:2-Oxoarginine,included
+ST003348_REST_STAT_REC3_secondary,15:2-Piperidinone,included
+ST003348_REST_STAT_REC3_secondary,16:3-Amino-2-piperidone,included
+ST003348_REST_STAT_REC3_secondary,17:3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid(CMPF),included
+ST003348_REST_STAT_REC3_secondary,"18:3-Hydroxy-N6,N6,N6-trimethyl-L-lysine",included
+ST003348_REST_STAT_REC3_secondary,19:3-Methoxytyrosine,included
+ST003348_REST_STAT_REC3_secondary,20:4-Acetamidobutanoic acid,included
+ST003348_REST_STAT_REC3_secondary,21:4-Aminoantipyrine,included
+ST003348_REST_STAT_REC3_secondary,22:4-Formylaminoantipyrine,included
+ST003348_REST_STAT_REC3_secondary,23:4-Pyridoxic acid,included
+ST003348_REST_STAT_REC3_secondary,24:4-Trimethylammoniobutanoic acid,included
+ST003348_REST_STAT_REC3_secondary,25:5-Hydroxyindoleacetic acid,included
+ST003348_REST_STAT_REC3_secondary,26:5'-Methylthioadenosine,included
+ST003348_REST_STAT_REC3_secondary,"27:7,8-Dihydrobiopterin",included
+ST003348_REST_STAT_REC3_secondary,28:7-Methylguanine,included
+ST003348_REST_STAT_REC3_secondary,29:AcCa(12:0)-D9,included
+ST003348_REST_STAT_REC3_secondary,30:AcCa(18:0)-D3,included
+ST003348_REST_STAT_REC3_secondary,31:Adenosine,included
+ST003348_REST_STAT_REC3_secondary,32:Adipoylcarnitine(AcCa(6:0-DC),included
+ST003348_REST_STAT_REC3_secondary,33:ADMA+SDMA,included
+ST003348_REST_STAT_REC3_secondary,34:Alanine+Sarcosine,included
+ST003348_REST_STAT_REC3_secondary,35:alpha-Aminobutyric acid,included
+ST003348_REST_STAT_REC3_secondary,36:Antipyrine,included
+ST003348_REST_STAT_REC3_secondary,37:Arachidylcarnitine(AcCa(20:0),included
+ST003348_REST_STAT_REC3_secondary,38:Asp-Ile,included
+ST003348_REST_STAT_REC3_secondary,39:Asp-Leu,included
+ST003348_REST_STAT_REC3_secondary,40:Asp-Phe,included
+ST003348_REST_STAT_REC3_secondary,41:Betaine,included
+ST003348_REST_STAT_REC3_secondary,42:Bilirubin,included
+ST003348_REST_STAT_REC3_secondary,43:Biliverdin,included
+ST003348_REST_STAT_REC3_secondary,44:Biliverdin isomer1,included
+ST003348_REST_STAT_REC3_secondary,45:Biliverdin isomer2,included
+ST003348_REST_STAT_REC3_secondary,46:Biliverdin isomer3,included
+ST003348_REST_STAT_REC3_secondary,47:Biotin,included
+ST003348_REST_STAT_REC3_secondary,48:Butenylcarnitine(AcCa(4:1),included
+ST003348_REST_STAT_REC3_secondary,49:Butyrylcarnitine(AcCa(4:0),included
+ST003348_REST_STAT_REC3_secondary,50:Caffeine,included
+ST003348_REST_STAT_REC3_secondary,51:Choline,included
+ST003348_REST_STAT_REC3_secondary,52:Citrulline,included
+ST003348_REST_STAT_REC3_secondary,53:Clenbuterol-D9,included
+ST003348_REST_STAT_REC3_secondary,54:Cortisol,included
+ST003348_REST_STAT_REC3_secondary,55:Cotinine,included
+ST003348_REST_STAT_REC3_secondary,56:Creatine,included
+ST003348_REST_STAT_REC3_secondary,57:Creatinine,included
+ST003348_REST_STAT_REC3_secondary,58:Cyclandelate,included
+ST003348_REST_STAT_REC3_secondary,59:Cytosine,included
+ST003348_REST_STAT_REC3_secondary,60:Decaethylene Glycol(PEG-10),included
+ST003348_REST_STAT_REC3_secondary,61:Decanoylcarnitine(AcCa(10:0),included
+ST003348_REST_STAT_REC3_secondary,62:Decenoylcarnitine(AcCa(10:1),included
+ST003348_REST_STAT_REC3_secondary,63:Decenoylcarnitine(AcCa(10:1) 1,included
+ST003348_REST_STAT_REC3_secondary,64:Decenoylcarnitine(AcCa(10:1) 2,included
+ST003348_REST_STAT_REC3_secondary,65:Decenoylcarnitine(AcCa(10:1) 3,included
+ST003348_REST_STAT_REC3_secondary,66:Dihydrothymine,included
+ST003348_REST_STAT_REC3_secondary,67:Dodecaethylene glycol(PEG-12),included
+ST003348_REST_STAT_REC3_secondary,68:Dodecanoylcarnitine(AcCa(12:0),included
+ST003348_REST_STAT_REC3_secondary,69:Dodecenoylcarnitine(AcCa(12:1),included
+ST003348_REST_STAT_REC3_secondary,70:Dopamine quinone,included
+ST003348_REST_STAT_REC3_secondary,71:Eicoseneoylcarnitine(AcCa(20:1),included
+ST003348_REST_STAT_REC3_secondary,72:Gabapentin,included
+ST003348_REST_STAT_REC3_secondary,73:gamma-Glu-Ala,included
+ST003348_REST_STAT_REC3_secondary,74:gamma-Glu-Ile,included
+ST003348_REST_STAT_REC3_secondary,75:gamma-Glu-Leu,included
+ST003348_REST_STAT_REC3_secondary,76:gamma-Glu-Met,included
+ST003348_REST_STAT_REC3_secondary,77:gamma-Glu-Phe,included
+ST003348_REST_STAT_REC3_secondary,78:gamma-Glu-Thr,included
+ST003348_REST_STAT_REC3_secondary,79:gamma-Glu-Tyr,included
+ST003348_REST_STAT_REC3_secondary,80:gamma-Glu-Val,included
+ST003348_REST_STAT_REC3_secondary,81:Glp-Gly,included
+ST003348_REST_STAT_REC3_secondary,82:Glu-Leu,included
+ST003348_REST_STAT_REC3_secondary,83:Glu-Phe,included
+ST003348_REST_STAT_REC3_secondary,84:Glutarylcarnitine(AcCa(5:0-DC),included
+ST003348_REST_STAT_REC3_secondary,85:Glycerophosphocholine,included
+ST003348_REST_STAT_REC3_secondary,86:Glycerylphosphorylethanolamine,included
+ST003348_REST_STAT_REC3_secondary,87:Gly-Glu,included
+ST003348_REST_STAT_REC3_secondary,88:Gly-Leu,included
+ST003348_REST_STAT_REC3_secondary,89:Gly-Phe,included
+ST003348_REST_STAT_REC3_secondary,90:Hematoporphyrin,included
+ST003348_REST_STAT_REC3_secondary,91:Heptaethylene Glycol(PEG-7),included
+ST003348_REST_STAT_REC3_secondary,92:Hexadecadienoylcarnitine(AcCa(16:2),included
+ST003348_REST_STAT_REC3_secondary,93:Hexadecenoylcarnitine(AcCa(16:1),included
+ST003348_REST_STAT_REC3_secondary,94:Hexanoylcarnitine(AcCa(6:0),included
+ST003348_REST_STAT_REC3_secondary,95:Hexenoylcarnitine(AcCa(6:1),included
+ST003348_REST_STAT_REC3_secondary,96:Hippuric acid,included
+ST003348_REST_STAT_REC3_secondary,97:Hippuric acid-D5,included
+ST003348_REST_STAT_REC3_secondary,98:His-Trp,included
+ST003348_REST_STAT_REC3_secondary,99:Homo-L-Arg,included
+ST003348_REST_STAT_REC3_secondary,100:Homostachydrine,included
+ST003348_REST_STAT_REC3_secondary,101:Human Fibrinopeptide A,included
+ST003348_REST_STAT_REC3_secondary,102:Human Fibrinopeptide B,included
+ST003348_REST_STAT_REC3_secondary,103:Hydroxycotinine,included
+ST003348_REST_STAT_REC3_secondary,104:Hydroxyisovaleroyl carnitine(AcCa(5:0-OH),included
+ST003348_REST_STAT_REC3_secondary,105:Hypoxanthine,included
+ST003348_REST_STAT_REC3_secondary,106:Icosadienoylcarnitine(AcCa(20:2),included
+ST003348_REST_STAT_REC3_secondary,107:Icosatrienoylcarnitine(AcCa(20:3),included
+ST003348_REST_STAT_REC3_secondary,108:Ile-Gln + Leu-Gln,included
+ST003348_REST_STAT_REC3_secondary,109:Ile-Gly,included
+ST003348_REST_STAT_REC3_secondary,110:Ile-Ile,included
+ST003348_REST_STAT_REC3_secondary,111:Ile-Leu + Leu-Ile,included
+ST003348_REST_STAT_REC3_secondary,112:Ile-Phe,included
+ST003348_REST_STAT_REC3_secondary,113:Ile-Pro,included
+ST003348_REST_STAT_REC3_secondary,114:Ile-Val,included
+ST003348_REST_STAT_REC3_secondary,115:Indole-3-carboxaldehyde,included
+ST003348_REST_STAT_REC3_secondary,116:Indole-3-methyl acetate,included
+ST003348_REST_STAT_REC3_secondary,117:Indole-3-propionic acid,included
+ST003348_REST_STAT_REC3_secondary,118:Indoleacetic acid,included
+ST003348_REST_STAT_REC3_secondary,119:Indolelactic acid,included
+ST003348_REST_STAT_REC3_secondary,120:Isobutyrylcarnitine(AcCa(iso4:0),included
+ST003348_REST_STAT_REC3_secondary,121:Isobutyrylglycine,included
+ST003348_REST_STAT_REC3_secondary,122:Isovalerylcarnitine(AcCa(iso5:0),included
+ST003348_REST_STAT_REC3_secondary,123:Kynurenic acid,included
+ST003348_REST_STAT_REC3_secondary,124:L-Acetylcarnitine(AcCa(2:0),included
+ST003348_REST_STAT_REC3_secondary,125:L-Arginine,included
+ST003348_REST_STAT_REC3_secondary,126:L-Asparagine,included
+ST003348_REST_STAT_REC3_secondary,127:L-Aspartic acid,included
+ST003348_REST_STAT_REC3_secondary,128:L-Carnitine,included
+ST003348_REST_STAT_REC3_secondary,129:L-Cystine,included
+ST003348_REST_STAT_REC3_secondary,130:Leu-Gly,included
+ST003348_REST_STAT_REC3_secondary,131:Leu-Leu,included
+ST003348_REST_STAT_REC3_secondary,132:Leu-Phe,included
+ST003348_REST_STAT_REC3_secondary,133:Leu-Pro,included
+ST003348_REST_STAT_REC3_secondary,134:L-Glutamic acid,included
+ST003348_REST_STAT_REC3_secondary,135:L-Glutamine,included
+ST003348_REST_STAT_REC3_secondary,136:L-Histidine,included
+ST003348_REST_STAT_REC3_secondary,137:Linoleamide,included
+ST003348_REST_STAT_REC3_secondary,138:Linolenylcarnitine(AcCa(18:3),included
+ST003348_REST_STAT_REC3_secondary,139:Linoleoylethanolamide,included
+ST003348_REST_STAT_REC3_secondary,140:Linoleylcarnitine(AcCa(18:2),included
+ST003348_REST_STAT_REC3_secondary,141:L-Isoleucine,included
+ST003348_REST_STAT_REC3_secondary,142:L-Kynurenine,included
+ST003348_REST_STAT_REC3_secondary,143:L-Leucine,included
+ST003348_REST_STAT_REC3_secondary,144:L-Lysine,included
+ST003348_REST_STAT_REC3_secondary,145:L-Methionine,included
+ST003348_REST_STAT_REC3_secondary,146:L-Phenylalanine,included
+ST003348_REST_STAT_REC3_secondary,147:L-Proline,included
+ST003348_REST_STAT_REC3_secondary,148:L-Serine,included
+ST003348_REST_STAT_REC3_secondary,149:L-Threonine,included
+ST003348_REST_STAT_REC3_secondary,150:L-Tryptophan,included
+ST003348_REST_STAT_REC3_secondary,151:L-Tyrosine,included
+ST003348_REST_STAT_REC3_secondary,152:Lysine-d4,included
+ST003348_REST_STAT_REC3_secondary,153:LysoPC(0:0/14:0),included
+ST003348_REST_STAT_REC3_secondary,154:LysoPC(0:0/16:0),included
+ST003348_REST_STAT_REC3_secondary,155:LysoPC(0:0/16:1),included
+ST003348_REST_STAT_REC3_secondary,156:LysoPC(0:0/18:1),included
+ST003348_REST_STAT_REC3_secondary,157:LysoPC(0:0/18:2),included
+ST003348_REST_STAT_REC3_secondary,158:LysoPC(0:0/18:3),included
+ST003348_REST_STAT_REC3_secondary,159:LysoPC(0:0/19:0),included
+ST003348_REST_STAT_REC3_secondary,160:LysoPC(0:0/20:3),included
+ST003348_REST_STAT_REC3_secondary,161:LysoPC(0:0/20:4),included
+ST003348_REST_STAT_REC3_secondary,162:LysoPC(0:0/20:5),included
+ST003348_REST_STAT_REC3_secondary,163:LysoPC(0:0/22:4),included
+ST003348_REST_STAT_REC3_secondary,164:LysoPC(14:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,165:LysoPC(15:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,166:LysoPC(15:0p/0:0),included
+ST003348_REST_STAT_REC3_secondary,167:LysoPC(16:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,168:LysoPC(16:0e/0:0),included
+ST003348_REST_STAT_REC3_secondary,169:LysoPC(16:0p/0:0),included
+ST003348_REST_STAT_REC3_secondary,170:LysoPC(16:1/0:0),included
+ST003348_REST_STAT_REC3_secondary,171:LysoPC(16:1p),included
+ST003348_REST_STAT_REC3_secondary,172:LysoPC(17:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,173:LysoPC(17:1/0:0),included
+ST003348_REST_STAT_REC3_secondary,174:LysoPC(18:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,175:LysoPC(18:0p/0:0),included
+ST003348_REST_STAT_REC3_secondary,176:LysoPC(18:1/0:0),included
+ST003348_REST_STAT_REC3_secondary,177:LysoPC(18:1p/0:0),included
+ST003348_REST_STAT_REC3_secondary,178:LysoPC(18:2/0:0),included
+ST003348_REST_STAT_REC3_secondary,179:LysoPC(18:3/0:0),included
+ST003348_REST_STAT_REC3_secondary,180:LysoPC(19:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,181:LysoPC(20:1/0:0),included
+ST003348_REST_STAT_REC3_secondary,182:LysoPC(20:2/0:0),included
+ST003348_REST_STAT_REC3_secondary,183:LysoPC(20:3/0:0),included
+ST003348_REST_STAT_REC3_secondary,184:LysoPC(20:4/0:0),included
+ST003348_REST_STAT_REC3_secondary,185:LysoPC(20:5/0:0),included
+ST003348_REST_STAT_REC3_secondary,186:LysoPC(22:4/0:0),included
+ST003348_REST_STAT_REC3_secondary,187:LysoPC(22:5n3/0:0)+LysoPC(0:0/22:5n6),included
+ST003348_REST_STAT_REC3_secondary,188:LysoPC(22:6/0:0),included
+ST003348_REST_STAT_REC3_secondary,189:LysoPE(0:0/16:0),included
+ST003348_REST_STAT_REC3_secondary,190:LysoPE(0:0/18:1),included
+ST003348_REST_STAT_REC3_secondary,191:LysoPE(0:0/18:2),included
+ST003348_REST_STAT_REC3_secondary,192:LysoPE(0:0/20:3),included
+ST003348_REST_STAT_REC3_secondary,193:LysoPE(0:0/20:4),included
+ST003348_REST_STAT_REC3_secondary,194:LysoPE(0:0/22:5n3),included
+ST003348_REST_STAT_REC3_secondary,195:LysoPE(0:0/22:5n6)+LysoPE(22:5n3/0:0),included
+ST003348_REST_STAT_REC3_secondary,196:LysoPE(0:0/22:6),included
+ST003348_REST_STAT_REC3_secondary,197:LysoPE(16:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,198:LysoPE(16:0p/0:0),included
+ST003348_REST_STAT_REC3_secondary,199:LysoPE(18:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,200:LysoPE(18:0p/0:0),included
+ST003348_REST_STAT_REC3_secondary,201:LysoPE(18:1/0:0),included
+ST003348_REST_STAT_REC3_secondary,202:LysoPE(18:1p/0:0),included
+ST003348_REST_STAT_REC3_secondary,203:LysoPE(18:2/0:0),included
+ST003348_REST_STAT_REC3_secondary,204:LysoPE(20:3/0:0),included
+ST003348_REST_STAT_REC3_secondary,205:LysoPE(20:4/0:0),included
+ST003348_REST_STAT_REC3_secondary,206:LysoPE(22:5n6/0:0),included
+ST003348_REST_STAT_REC3_secondary,207:LysoPE(22:6/0:0),included
+ST003348_REST_STAT_REC3_secondary,208:Methionine sulfoxide,included
+ST003348_REST_STAT_REC3_secondary,209:Methylcysteine,included
+ST003348_REST_STAT_REC3_secondary,210:Methylglutarylcarnitine(AcCa(iso6:0-DC),included
+ST003348_REST_STAT_REC3_secondary,211:Methylimidazoleacetic acid,included
+ST003348_REST_STAT_REC3_secondary,212:Metoprol,included
+ST003348_REST_STAT_REC3_secondary,213:Metronidazole,included
+ST003348_REST_STAT_REC3_secondary,214:N1-Acetylspermidine+N8-Acetylspermidine,included
+ST003348_REST_STAT_REC3_secondary,215:N1-Methyl-2-pyridone-5-carboxamide,included
+ST003348_REST_STAT_REC3_secondary,216:N2-Methylguanine,included
+ST003348_REST_STAT_REC3_secondary,"217:N2,N2-Dimethylguanosine",included
+ST003348_REST_STAT_REC3_secondary,218:N-(3-acetamidopropyl)pyrrolidin-2-one,included
+ST003348_REST_STAT_REC3_secondary,219:N6-Acetyl-L-lysine,included
+ST003348_REST_STAT_REC3_secondary,220:N6-Methyladenosine,included
+ST003348_REST_STAT_REC3_secondary,221:N(6)-Methyllysine,included
+ST003348_REST_STAT_REC3_secondary,"222:N6,N6,N6-Trimethyl-L-lysine",included
+ST003348_REST_STAT_REC3_secondary,223:N-a-Acetyl-L-arginine,included
+ST003348_REST_STAT_REC3_secondary,224:N-Acetylasparagine,included
+ST003348_REST_STAT_REC3_secondary,225:N-Acetylcadaverine,included
+ST003348_REST_STAT_REC3_secondary,226:N-Acetylglutamic acid,included
+ST003348_REST_STAT_REC3_secondary,227:N-Acetylglutamine,included
+ST003348_REST_STAT_REC3_secondary,228:N-Acetylisoleucine,included
+ST003348_REST_STAT_REC3_secondary,229:N-Acetylleucine,included
+ST003348_REST_STAT_REC3_secondary,230:N-Acetyl-L-phenylalanine,included
+ST003348_REST_STAT_REC3_secondary,231:N-Acetylornithine,included
+ST003348_REST_STAT_REC3_secondary,232:N-Acetylputrescine,included
+ST003348_REST_STAT_REC3_secondary,233:N-acetyltryptophan,included
+ST003348_REST_STAT_REC3_secondary,234:N-Acetyltyrosine,included
+ST003348_REST_STAT_REC3_secondary,235:N-gamma-Glu-Gln,included
+ST003348_REST_STAT_REC3_secondary,236:N-Hexosyl Alanine,included
+ST003348_REST_STAT_REC3_secondary,237:N-Hexosyl Glutamine,included
+ST003348_REST_STAT_REC3_secondary,238:N-Hexosyl Isoleucine,included
+ST003348_REST_STAT_REC3_secondary,239:N-Hexosyl Leucine,included
+ST003348_REST_STAT_REC3_secondary,240:N-Hexosyl Lysine,included
+ST003348_REST_STAT_REC3_secondary,241:N-Hexosyl Phenylalanine,included
+ST003348_REST_STAT_REC3_secondary,242:N-Hexosyl Proline,included
+ST003348_REST_STAT_REC3_secondary,243:N-Hexosyl tryptophan,included
+ST003348_REST_STAT_REC3_secondary,244:N-Hexosyl Tyrosine,included
+ST003348_REST_STAT_REC3_secondary,245:N-Hexosyl Valine,included
+ST003348_REST_STAT_REC3_secondary,246:Niacinamide,included
+ST003348_REST_STAT_REC3_secondary,"247:N,N,N-trimethyl-5-aminovaleric acid",included
+ST003348_REST_STAT_REC3_secondary,"248:N,N,N-Trimethyl-alanyl-proline betaine",included
+ST003348_REST_STAT_REC3_secondary,249:Nonanoylcarnitine(AcCa(9:0),included
+ST003348_REST_STAT_REC3_secondary,250:Octadecanamide,included
+ST003348_REST_STAT_REC3_secondary,251:Octaethylene glycol(PEG-8),included
+ST003348_REST_STAT_REC3_secondary,252:Octanoylcarnitine(AcCa(8:0),included
+ST003348_REST_STAT_REC3_secondary,253:Octenoylcarnitine(AcCa(8:1),included
+ST003348_REST_STAT_REC3_secondary,254:Octenoylcarnitine(AcCa(8:1) isomer,included
+ST003348_REST_STAT_REC3_secondary,255:Oleamide,included
+ST003348_REST_STAT_REC3_secondary,256:Oleoylcarnitine(AcCa(18:1),included
+ST003348_REST_STAT_REC3_secondary,257:Ornithine,included
+ST003348_REST_STAT_REC3_secondary,258:Palmitic amide,included
+ST003348_REST_STAT_REC3_secondary,259:Palmitoylcarnitine(AcCa(16:0),included
+ST003348_REST_STAT_REC3_secondary,260:Palmitoylethanolamide,included
+ST003348_REST_STAT_REC3_secondary,261:Pantothenic acid,included
+ST003348_REST_STAT_REC3_secondary,262:Pantothenol,included
+ST003348_REST_STAT_REC3_secondary,263:Phe-Glu,included
+ST003348_REST_STAT_REC3_secondary,264:Phe-Gly,included
+ST003348_REST_STAT_REC3_secondary,265:Phe-Ile,included
+ST003348_REST_STAT_REC3_secondary,266:Phenylacetylglutamine,included
+ST003348_REST_STAT_REC3_secondary,267:Phenylacetylglycine,included
+ST003348_REST_STAT_REC3_secondary,268:Phe-Phe,included
+ST003348_REST_STAT_REC3_secondary,269:Phe-Ser,included
+ST003348_REST_STAT_REC3_secondary,270:Phe-Trp,included
+ST003348_REST_STAT_REC3_secondary,271:Phytosphingosine,included
+ST003348_REST_STAT_REC3_secondary,272:Pipecolic acid,included
+ST003348_REST_STAT_REC3_secondary,273:Porphobilinogen,included
+ST003348_REST_STAT_REC3_secondary,274:Pro-Hyp,included
+ST003348_REST_STAT_REC3_secondary,275:Proline betaine,included
+ST003348_REST_STAT_REC3_secondary,276:Propionylcarnitine(AcCa(3:0),included
+ST003348_REST_STAT_REC3_secondary,277:Propylparaben,included
+ST003348_REST_STAT_REC3_secondary,278:Pyroglutamic acid,included
+ST003348_REST_STAT_REC3_secondary,279:Pyroglutamine,included
+ST003348_REST_STAT_REC3_secondary,280:Quinolinic acid,included
+ST003348_REST_STAT_REC3_secondary,281:Ser-Leu,included
+ST003348_REST_STAT_REC3_secondary,282:Serotonin,included
+ST003348_REST_STAT_REC3_secondary,283:Ser-Phe,included
+ST003348_REST_STAT_REC3_secondary,284:S-Methylmethionine,included
+ST003348_REST_STAT_REC3_secondary,285:Spermidine,included
+ST003348_REST_STAT_REC3_secondary,286:Spermine,included
+ST003348_REST_STAT_REC3_secondary,287:Sphinganine,included
+ST003348_REST_STAT_REC3_secondary,288:Sphinganine 1-phosphate,included
+ST003348_REST_STAT_REC3_secondary,289:Sphingosine,included
+ST003348_REST_STAT_REC3_secondary,290:Sphingosine 1-phosphate,included
+ST003348_REST_STAT_REC3_secondary,291:Stearoylcarnitine(AcCa(18:0),included
+ST003348_REST_STAT_REC3_secondary,292:Stearoylethanolamide,included
+ST003348_REST_STAT_REC3_secondary,293:Succinylcarnitine(AcCa(4:0-DC),included
+ST003348_REST_STAT_REC3_secondary,294:Taurine,included
+ST003348_REST_STAT_REC3_secondary,295:Taurine-D4,included
+ST003348_REST_STAT_REC3_secondary,296:Tetradecadiencarnitine(AcCa(14:2) 1,included
+ST003348_REST_STAT_REC3_secondary,297:Tetradecaethylene glycol(PEG-14),included
+ST003348_REST_STAT_REC3_secondary,298:Tetradecanoylcarnitine(AcCa(14:0),included
+ST003348_REST_STAT_REC3_secondary,299:Tetradecenoylcarnitine(AcCa(14:1),included
+ST003348_REST_STAT_REC3_secondary,300:Tetraethylene glycol(PEG-4),included
+ST003348_REST_STAT_REC3_secondary,301:Theobromine,included
+ST003348_REST_STAT_REC3_secondary,302:Theophylline,included
+ST003348_REST_STAT_REC3_secondary,303:Thyroxine,included
+ST003348_REST_STAT_REC3_secondary,304:Tiglylcarnitine(AcCa(5:1),included
+ST003348_REST_STAT_REC3_secondary,305:Tridecanoylcarnitine(AcCa(13:0),included
+ST003348_REST_STAT_REC3_secondary,306:Trigonelline,included
+ST003348_REST_STAT_REC3_secondary,307:Trimethylamine N-oxide,included
+ST003348_REST_STAT_REC3_secondary,308:Tryptamine,included
+ST003348_REST_STAT_REC3_secondary,309:Tryptophan 2-C-mannoside,included
+ST003348_REST_STAT_REC3_secondary,310:Tryptophan betaine,included
+ST003348_REST_STAT_REC3_secondary,311:Undecanoylcarnitine(AcCa(11:0),included
+ST003348_REST_STAT_REC3_secondary,312:Uracil,included
+ST003348_REST_STAT_REC3_secondary,313:Urea,included
+ST003348_REST_STAT_REC3_secondary,314:Uric acid,included
+ST003348_REST_STAT_REC3_secondary,315:Uridine+Pseudouridine,included
+ST003348_REST_STAT_REC3_secondary,316:Urocanic acid,included
+ST003348_REST_STAT_REC3_secondary,317:Val-Ile + Leu-Val,included
+ST003348_REST_STAT_REC3_secondary,318:Val-Leu,included
+ST003348_REST_STAT_REC3_secondary,319:Xanthine,included
+ST003348_REST_STAT_REC3_secondary,320:11-HETE,included
+ST003348_REST_STAT_REC3_secondary,"321:12,13-DHOME",included
+ST003348_REST_STAT_REC3_secondary,322:12-HETE,included
+ST003348_REST_STAT_REC3_secondary,323:12-Hydroxystearic acid,included
+ST003348_REST_STAT_REC3_secondary,324:14-Hydroxymyristic acid(FFA(14:0-OH),included
+ST003348_REST_STAT_REC3_secondary,"325:1,5-Anhydrosorbitol",included
+ST003348_REST_STAT_REC3_secondary,326:15-HETE,included
+ST003348_REST_STAT_REC3_secondary,327:16-Hydroxyhexadecanoic acid,included
+ST003348_REST_STAT_REC3_secondary,"328:1,7-Dimethyluric acid",included
+ST003348_REST_STAT_REC3_secondary,"329:2,3-Dihydroxy-5-methylthio-4-pentenoic acid(DMTPA)",included
+ST003348_REST_STAT_REC3_secondary,330:2-Hydroxy-3-methylbutyric acid+3-Hydroxy-3-methylbutyric acid,included
+ST003348_REST_STAT_REC3_secondary,331:2-Hydroxybutyric acid+3-Hydroxybutyric acid,included
+ST003348_REST_STAT_REC3_secondary,332:2-Hydroxydodecanoic acid,included
+ST003348_REST_STAT_REC3_secondary,333:2-Hydroxyglutaric acid,included
+ST003348_REST_STAT_REC3_secondary,334:2-Hydroxymyristic acid(FFA(14:0-OH),included
+ST003348_REST_STAT_REC3_secondary,335:2-Hydroxystearic acid,included
+ST003348_REST_STAT_REC3_secondary,336:2-Methylcitric acid,included
+ST003348_REST_STAT_REC3_secondary,337:2-O-Methylascorbic acid,included
+ST003348_REST_STAT_REC3_secondary,338:2'-O-Methyluridine,included
+ST003348_REST_STAT_REC3_secondary,"339:3,4-Dihydroxybutyric acid",included
+ST003348_REST_STAT_REC3_secondary,340:3beta-Hydroxy-5-cholenoic acid,included
+ST003348_REST_STAT_REC3_secondary,341:3beta-Hydroxy-5-cholenoic acid glycine conjugate 3-O-sulfate,included
+ST003348_REST_STAT_REC3_secondary,342:3beta-Hydroxy-5-cholenoic acid taurine conjugate 3-O-sulfate,included
+ST003348_REST_STAT_REC3_secondary,343:3beta-Hydroxy-5-cholestenoic acid,included
+ST003348_REST_STAT_REC3_secondary,344:3b-Hydroxy-5-cholenoic acid glycine conjugate,included
+ST003348_REST_STAT_REC3_secondary,345:3-Carboxy-4-methyl-5-pentyl-2-furanpropanoic acid,included
+ST003348_REST_STAT_REC3_secondary,346:3-Epideoxycholic acidacid,included
+ST003348_REST_STAT_REC3_secondary,347:3-Hydroxycapric acid(FFA(10:0-OH),included
+ST003348_REST_STAT_REC3_secondary,348:3-Hydroxydodecanoic acid,included
+ST003348_REST_STAT_REC3_secondary,349:3-Hydroxyhexadecanoic acid,included
+ST003348_REST_STAT_REC3_secondary,350:3-Hydroxyhexanoic acid,included
+ST003348_REST_STAT_REC3_secondary,351:3-Hydroxyhippuric acid,included
+ST003348_REST_STAT_REC3_secondary,352:3-Hydroxymethylglutaric acid,included
+ST003348_REST_STAT_REC3_secondary,353:3-Hydroxymyristic acid(FFA(14:0-OH),included
+ST003348_REST_STAT_REC3_secondary,354:3-Hydroxyoctanoic acid(FFA(8:0-OH),included
+ST003348_REST_STAT_REC3_secondary,355:3-Hydroxypyridine sulfate,included
+ST003348_REST_STAT_REC3_secondary,356:3-Hydroxystearic acid,included
+ST003348_REST_STAT_REC3_secondary,357:3-Methyl-2-oxovaleric acid,included
+ST003348_REST_STAT_REC3_secondary,358:3-Methylglutaconic acid,included
+ST003348_REST_STAT_REC3_secondary,359:3-Oxotetradecanoic acid,included
+ST003348_REST_STAT_REC3_secondary,"360:(4E,15E)-Bilirubin IXa",included
+ST003348_REST_STAT_REC3_secondary,"361:(4E,15Z)-Bilirubin IXa",included
+ST003348_REST_STAT_REC3_secondary,362:4-Hydroxychlorothalonil,included
+ST003348_REST_STAT_REC3_secondary,363:4-Hydroxyproline,included
+ST003348_REST_STAT_REC3_secondary,364:4-Methylcatechol 1-sulfate,included
+ST003348_REST_STAT_REC3_secondary,365:4-Methylcatechol 2-sulfate,included
+ST003348_REST_STAT_REC3_secondary,366:4-Vinylphenol sulfate,included
+ST003348_REST_STAT_REC3_secondary,"367:5,6-Dihydrouridine",included
+ST003348_REST_STAT_REC3_secondary,"368:5alpha-Pregnan-3beta,20alpha-diol disulfate",included
+ST003348_REST_STAT_REC3_secondary,369:5beta-Pregnanediol sulfate,included
+ST003348_REST_STAT_REC3_secondary,370:5-HETE,included
+ST003348_REST_STAT_REC3_secondary,371:5-Hydroxyhexadecanoic acid,included
+ST003348_REST_STAT_REC3_secondary,372:5-Methyluridine,included
+ST003348_REST_STAT_REC3_secondary,373:6-Oxopiperidine-2-carboxylic acid,included
+ST003348_REST_STAT_REC3_secondary,374:7alpha-Hydroxy-3-oxo-4-cholestenoate,included
+ST003348_REST_STAT_REC3_secondary,375:7alpha-Hydroxy-3-oxo-4-cholestenoate isomer,included
+ST003348_REST_STAT_REC3_secondary,"376:9,10-DHOME",included
+ST003348_REST_STAT_REC3_secondary,377:9-Decenoic acid(FFA(10:1n1),included
+ST003348_REST_STAT_REC3_secondary,378:9-HODE,included
+ST003348_REST_STAT_REC3_secondary,379:Acesulfame,included
+ST003348_REST_STAT_REC3_secondary,380:Acetylglycine,included
+ST003348_REST_STAT_REC3_secondary,381:Allantoin,included
+ST003348_REST_STAT_REC3_secondary,382:alpha-Ketoisovaleric acid,included
+ST003348_REST_STAT_REC3_secondary,383:Alpha-Linolenic acid(FFA(18:3n3),included
+ST003348_REST_STAT_REC3_secondary,384:Aminoadipic acid,included
+ST003348_REST_STAT_REC3_secondary,385:Androstenediol disulfate (1),included
+ST003348_REST_STAT_REC3_secondary,386:Androstenediol disulfate (2),included
+ST003348_REST_STAT_REC3_secondary,387:Androsterone O-glucuronide,included
+ST003348_REST_STAT_REC3_secondary,388:Androsterone sulfate (1),included
+ST003348_REST_STAT_REC3_secondary,389:Androsterone sulfate (2),included
+ST003348_REST_STAT_REC3_secondary,390:Androsterone sulfate (3),included
+ST003348_REST_STAT_REC3_secondary,391:Androsterone sulfate (4),included
+ST003348_REST_STAT_REC3_secondary,392:Androsterone sulfate (5),included
+ST003348_REST_STAT_REC3_secondary,393:Arachidic acid(FFA(20:0),included
+ST003348_REST_STAT_REC3_secondary,394:Arachidonic acid(FFA(20:4),included
+ST003348_REST_STAT_REC3_secondary,395:Ascorbic acid,included
+ST003348_REST_STAT_REC3_secondary,396:Ascorbic acid-2-sulfate,included
+ST003348_REST_STAT_REC3_secondary,397:Aspirin,included
+ST003348_REST_STAT_REC3_secondary,398:Azelaic acid(FFA(9:0-DC),included
+ST003348_REST_STAT_REC3_secondary,399:Behenic acid(FFA(22:0),included
+ST003348_REST_STAT_REC3_secondary,400:Benzeneacetamide-4-O-sulphate,included
+ST003348_REST_STAT_REC3_secondary,401:Bromide,included
+ST003348_REST_STAT_REC3_secondary,402:Bromo-tryptophan,included
+ST003348_REST_STAT_REC3_secondary,403:Capryloylglycine,included
+ST003348_REST_STAT_REC3_secondary,404:CDCA-D4,included
+ST003348_REST_STAT_REC3_secondary,405:Chenodeoxycholic acid,included
+ST003348_REST_STAT_REC3_secondary,406:Chenodeoxycholic acid glycine conjugate,included
+ST003348_REST_STAT_REC3_secondary,407:Chloramphenicol-D5,included
+ST003348_REST_STAT_REC3_secondary,408:Cholesterol sulfate,included
+ST003348_REST_STAT_REC3_secondary,409:cis-Aconitic acid,included
+ST003348_REST_STAT_REC3_secondary,410:Citric acid,included
+ST003348_REST_STAT_REC3_secondary,411:C-Mannosyl Alanine,included
+ST003348_REST_STAT_REC3_secondary,412:C-Mannosyl Asparagine,included
+ST003348_REST_STAT_REC3_secondary,413:C-Mannosyl Glutamine,included
+ST003348_REST_STAT_REC3_secondary,414:C-Mannosyl Glycine,included
+ST003348_REST_STAT_REC3_secondary,415:C-Mannosyl Leucine,included
+ST003348_REST_STAT_REC3_secondary,416:C-Mannosyl Serine,included
+ST003348_REST_STAT_REC3_secondary,417:C-Mannosyl Threonine,included
+ST003348_REST_STAT_REC3_secondary,418:C-Mannosyl Valine,included
+ST003348_REST_STAT_REC3_secondary,419:Corticosterone,included
+ST003348_REST_STAT_REC3_secondary,420:Cys-Cys,included
+ST003348_REST_STAT_REC3_secondary,421:Cysteine-S-sulfate,included
+ST003348_REST_STAT_REC3_secondary,422:Daidzein,included
+ST003348_REST_STAT_REC3_secondary,423:Dehydroepiandrosterone sulfate,included
+ST003348_REST_STAT_REC3_secondary,424:Deoxycholic acid,included
+ST003348_REST_STAT_REC3_secondary,425:Deoxycholic acid glycine conjugate,included
+ST003348_REST_STAT_REC3_secondary,426:Deoxycholic acid isomer 1,included
+ST003348_REST_STAT_REC3_secondary,427:Deoxycholic acid isomer 2,included
+ST003348_REST_STAT_REC3_secondary,428:Deoxycholic acid isomer 3,included
+ST003348_REST_STAT_REC3_secondary,429:Desaminotyrosine,included
+ST003348_REST_STAT_REC3_secondary,430:Dihydronaringenin-O-sulphate,included
+ST003348_REST_STAT_REC3_secondary,431:Docosadienoate(FFA(22:2),included
+ST003348_REST_STAT_REC3_secondary,432:Docosahexaenoic acid(FFA(22:6),included
+ST003348_REST_STAT_REC3_secondary,433:Docosapentaenoic acid(FFA(22:5n3),included
+ST003348_REST_STAT_REC3_secondary,434:Docosapentaenoic acid(FFA(22:5n6),included
+ST003348_REST_STAT_REC3_secondary,435:Dodecanedioic acid(FFA(12:0-DC),included
+ST003348_REST_STAT_REC3_secondary,436:Dodecenoic acid(FFA(12:1),included
+ST003348_REST_STAT_REC3_secondary,437:EDTA,included
+ST003348_REST_STAT_REC3_secondary,438:Eicosadienoic acid(FFA(20:2n6),included
+ST003348_REST_STAT_REC3_secondary,439:Eicosanedioic acid(FFA(20:0-DC),included
+ST003348_REST_STAT_REC3_secondary,440:Eicosapentaenoic acid(FFA(20:5),included
+ST003348_REST_STAT_REC3_secondary,441:Eicosatrienoic acid(FFA(20:3n3),included
+ST003348_REST_STAT_REC3_secondary,442:Eicosatrienoic acid(FFA(20:3n6),included
+ST003348_REST_STAT_REC3_secondary,443:Eicosatrienoic acid(FFA(20:3n9),included
+ST003348_REST_STAT_REC3_secondary,444:Eicosenoic acid(FFA(20:1),included
+ST003348_REST_STAT_REC3_secondary,445:Enterolactone sulfate,included
+ST003348_REST_STAT_REC3_secondary,446:Erucic acid(FFA(22:1n9),included
+ST003348_REST_STAT_REC3_secondary,447:Ethyl beta-D-glucopyranoside,included
+ST003348_REST_STAT_REC3_secondary,448:Ethylparaben sufate,included
+ST003348_REST_STAT_REC3_secondary,449:Fluconazole,included
+ST003348_REST_STAT_REC3_secondary,450:Formiminoglutamic acid,included
+ST003348_REST_STAT_REC3_secondary,451:Fumaric acid,included
+ST003348_REST_STAT_REC3_secondary,452:gamma-CEHC,included
+ST003348_REST_STAT_REC3_secondary,453:gamma-Glu-Gly,included
+ST003348_REST_STAT_REC3_secondary,454:Gluconic acid,included
+ST003348_REST_STAT_REC3_secondary,455:Gluconolactone,included
+ST003348_REST_STAT_REC3_secondary,456:Glucose+myo-Inositol,included
+ST003348_REST_STAT_REC3_secondary,457:Glucuronic acid,included
+ST003348_REST_STAT_REC3_secondary,458:Glutaric acid,included
+ST003348_REST_STAT_REC3_secondary,459:Glycerol,included
+ST003348_REST_STAT_REC3_secondary,460:Glycochenodeoxycholate-3-sulfate,included
+ST003348_REST_STAT_REC3_secondary,461:Glycocholic acid,included
+ST003348_REST_STAT_REC3_secondary,462:Glycodeoxycholate-3-sulfate,included
+ST003348_REST_STAT_REC3_secondary,463:Glycohyocholic acid,included
+ST003348_REST_STAT_REC3_secondary,464:Glycoursodeoxycholate-3-sulfate,included
+ST003348_REST_STAT_REC3_secondary,465:Glycoursodeoxycholic acid,included
+ST003348_REST_STAT_REC3_secondary,466:Heptadecanoic acid(FFA(17:0),included
+ST003348_REST_STAT_REC3_secondary,467:Heptadecenoic acid(FFA(17:1),included
+ST003348_REST_STAT_REC3_secondary,468:Hexadecadienoic acid(FFA(16:2),included
+ST003348_REST_STAT_REC3_secondary,469:Hexadecanedioate(FFA(16:1-DC),included
+ST003348_REST_STAT_REC3_secondary,470:Hexadecanedioic acid(FFA(16:0-DC),included
+ST003348_REST_STAT_REC3_secondary,471:Hexanoylglycine,included
+ST003348_REST_STAT_REC3_secondary,"472:Human Fibrinopeptide A residual [2-16, DSGEGDFLAEGGGVR]",included
+ST003348_REST_STAT_REC3_secondary,"473:Human Fibrinopeptide B residual [1-13, XGVNDNEEGFFSA]",included
+ST003348_REST_STAT_REC3_secondary,474:Hydroxy-CMPF,included
+ST003348_REST_STAT_REC3_secondary,475:Hydroxyhexadecanoic acid isomer1,included
+ST003348_REST_STAT_REC3_secondary,476:Hydroxyhexadecanoic acid isomer2,included
+ST003348_REST_STAT_REC3_secondary,477:Hyocholic acid,included
+ST003348_REST_STAT_REC3_secondary,478:Hyodeoxycholic acid,included
+ST003348_REST_STAT_REC3_secondary,479:Imidazolelactic acid,included
+ST003348_REST_STAT_REC3_secondary,480:Indole-3-pyruvic acid,included
+ST003348_REST_STAT_REC3_secondary,481:Iodide,included
+ST003348_REST_STAT_REC3_secondary,482:Isooctadecanedioic acid(FFA(18:0-DC),included
+ST003348_REST_STAT_REC3_secondary,483:Isoursodeoxycholic acid,included
+ST003348_REST_STAT_REC3_secondary,484:Lactic acid,included
+ST003348_REST_STAT_REC3_secondary,485:L-Cysteinylglycine disulfide,included
+ST003348_REST_STAT_REC3_secondary,486:Leu-Glu,included
+ST003348_REST_STAT_REC3_secondary,487:Linoleic acid(FFA(18:2n6),included
+ST003348_REST_STAT_REC3_secondary,488:L-Valine,included
+ST003348_REST_STAT_REC3_secondary,489:LysoPA(0:0/18:1),included
+ST003348_REST_STAT_REC3_secondary,490:LysoPA(0:0/18:2),included
+ST003348_REST_STAT_REC3_secondary,491:LysoPA(0:0/20:4),included
+ST003348_REST_STAT_REC3_secondary,492:LysoPA(16:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,493:LysoPA(18:1/0:0),included
+ST003348_REST_STAT_REC3_secondary,494:LysoPA(18:2/0:0),included
+ST003348_REST_STAT_REC3_secondary,495:LysoPA(20:4/0:0),included
+ST003348_REST_STAT_REC3_secondary,496:LysoPI(0:0/18:0),included
+ST003348_REST_STAT_REC3_secondary,497:LysoPI(0:0/18:2),included
+ST003348_REST_STAT_REC3_secondary,498:LysoPI(0:0/20:4),included
+ST003348_REST_STAT_REC3_secondary,499:LysoPI(16:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,500:LysoPI(18:0/0:0),included
+ST003348_REST_STAT_REC3_secondary,501:LysoPI(18:1),included
+ST003348_REST_STAT_REC3_secondary,502:LysoPI(18:2/0:0),included
+ST003348_REST_STAT_REC3_secondary,503:LysoPI(20:3),included
+ST003348_REST_STAT_REC3_secondary,504:LysoPI(20:4/0:0),included
+ST003348_REST_STAT_REC3_secondary,505:Malic acid,included
+ST003348_REST_STAT_REC3_secondary,506:Mannitol+Sorbitol,included
+ST003348_REST_STAT_REC3_secondary,507:Methyl beta-D-glucopyranoside,included
+ST003348_REST_STAT_REC3_secondary,508:Methyldodecanoic acid(FFA(13:0-CH3),included
+ST003348_REST_STAT_REC3_secondary,509:Methyl hexadecanoic acid(FFA(17:0-CH3),included
+ST003348_REST_STAT_REC3_secondary,510:Methylmyristic acid(FFA(15:0-CH3),included
+ST003348_REST_STAT_REC3_secondary,511:Methylpyrogallol sulfate,included
+ST003348_REST_STAT_REC3_secondary,512:Methylsuccinic acid,included
+ST003348_REST_STAT_REC3_secondary,513:Monoethylhexyl phthalic acid,included
+ST003348_REST_STAT_REC3_secondary,514:Myristoleic acid(FFA(14:1n5),included
+ST003348_REST_STAT_REC3_secondary,515:N4-Acetylsulfamethoxazole,included
+ST003348_REST_STAT_REC3_secondary,516:N5-Acetylornithine,included
+ST003348_REST_STAT_REC3_secondary,517:N-Acetylaminooctanoic acid,included
+ST003348_REST_STAT_REC3_secondary,518:N-Acetylglucosamine sulfate,included
+ST003348_REST_STAT_REC3_secondary,519:N-Acetyl-L-aspartic acid,included
+ST003348_REST_STAT_REC3_secondary,520:N-Acetyltaurine,included
+ST003348_REST_STAT_REC3_secondary,521:N-Acetylthreonine,included
+ST003348_REST_STAT_REC3_secondary,522:NegX-RT171MZ00,included
+ST003348_REST_STAT_REC3_secondary,523:NegX-RT295MZ165,included
+ST003348_REST_STAT_REC3_secondary,524:NegX-RT32MZ129,included
+ST003348_REST_STAT_REC3_secondary,525:NegX-RT37MZ197,included
+ST003348_REST_STAT_REC3_secondary,526:NegX-RT385MZ193,included
+ST003348_REST_STAT_REC3_secondary,527:NegX-RT40MZ141,included
+ST003348_REST_STAT_REC3_secondary,528:NegX-RT413MZ424(containing nitrate),included
+ST003348_REST_STAT_REC3_secondary,529:NegX-RT439MZ313,included
+ST003348_REST_STAT_REC3_secondary,530:NegX-RT464MZ239,included
+ST003348_REST_STAT_REC3_secondary,531:NegX-RT539MZ295,included
+ST003348_REST_STAT_REC3_secondary,532:NegX-RT573-C18H34O4,included
+ST003348_REST_STAT_REC3_secondary,533:Nervonic acid(FFA(24:1),included
+ST003348_REST_STAT_REC3_secondary,534:N-Formyl-L-methionine,included
+ST003348_REST_STAT_REC3_secondary,535:N-Oleoyl-Serine,included
+ST003348_REST_STAT_REC3_secondary,536:Nonadecenoic acid(FFA(19:1),included
+ST003348_REST_STAT_REC3_secondary,537:N-Palmitoyl Serine,included
+ST003348_REST_STAT_REC3_secondary,538:Octadecanedioic acid(FFA(18:0-DC),included
+ST003348_REST_STAT_REC3_secondary,539:Octadecendioic acid(FFA(18:1-DC),included
+ST003348_REST_STAT_REC3_secondary,540:Octyl butanoate,included
+ST003348_REST_STAT_REC3_secondary,541:Oleic acid(FFA(18:1n9),included
+ST003348_REST_STAT_REC3_secondary,542:Oleoylethanolamide,included
+ST003348_REST_STAT_REC3_secondary,543:O-Methoxycatechol-O-sulphate,included
+ST003348_REST_STAT_REC3_secondary,544:O-Sulfotyrosine,included
+ST003348_REST_STAT_REC3_secondary,545:Oxalic acid,included
+ST003348_REST_STAT_REC3_secondary,546:Oxoglutaric acid,included
+ST003348_REST_STAT_REC3_secondary,547:Palmitic acid-[13C]16,included
+ST003348_REST_STAT_REC3_secondary,548:Palmitic acid(FFA(16:0),included
+ST003348_REST_STAT_REC3_secondary,549:Palmitoleic acid(FFA(16:1),included
+ST003348_REST_STAT_REC3_secondary,550:Paraxanthine,included
+ST003348_REST_STAT_REC3_secondary,551:p-Cresol glucuronide,included
+ST003348_REST_STAT_REC3_secondary,552:Pentadecanoic acid(FFA(15:0),included
+ST003348_REST_STAT_REC3_secondary,553:Perfluorooctanoic acid(PFOA),included
+ST003348_REST_STAT_REC3_secondary,554:Phe-Leu,included
+ST003348_REST_STAT_REC3_secondary,555:Phenyllactic acid,included
+ST003348_REST_STAT_REC3_secondary,556:Phosphate,included
+ST003348_REST_STAT_REC3_secondary,557:Pregnandiol sulfate (1),included
+ST003348_REST_STAT_REC3_secondary,558:Pregnanediol monosulfate,included
+ST003348_REST_STAT_REC3_secondary,559:Pregnanediol O-glucuronide,included
+ST003348_REST_STAT_REC3_secondary,"560:Pregnenolone-3,21-disulfate",included
+ST003348_REST_STAT_REC3_secondary,561:Pregnenolone sulfate,included
+ST003348_REST_STAT_REC3_secondary,562:Propylparaben sulfate,included
+ST003348_REST_STAT_REC3_secondary,563:Pyrogallol-1-O-sulphate,included
+ST003348_REST_STAT_REC3_secondary,564:Pyrogallol-2-O-sulphate,included
+ST003348_REST_STAT_REC3_secondary,565:Pyruvic acid,included
+ST003348_REST_STAT_REC3_secondary,566:Ribonic acid+Xylonate,included
+ST003348_REST_STAT_REC3_secondary,567:Ribose,included
+ST003348_REST_STAT_REC3_secondary,568:Stearic acid-D35,included
+ST003348_REST_STAT_REC3_secondary,569:Stearic acid(FFA(18:0),included
+ST003348_REST_STAT_REC3_secondary,570:Stearidonic acid(FFA(18:4n3),included
+ST003348_REST_STAT_REC3_secondary,571:Steroid-C21H34O3 monosulfate,included
+ST003348_REST_STAT_REC3_secondary,572:Suberic acid(FFA(8:0-DC),included
+ST003348_REST_STAT_REC3_secondary,573:Succinic acid,included
+ST003348_REST_STAT_REC3_secondary,574:Sulfate,included
+ST003348_REST_STAT_REC3_secondary,575:Sulfolithocholylglycine,included
+ST003348_REST_STAT_REC3_secondary,576:Taurochenodesoxycholic acid,included
+ST003348_REST_STAT_REC3_secondary,577:Taurocholic acid,included
+ST003348_REST_STAT_REC3_secondary,578:Taurodeoxycholic acid,included
+ST003348_REST_STAT_REC3_secondary,579:Taurolithocholic acid 3-sulfate,included
+ST003348_REST_STAT_REC3_secondary,580:Testosterone sulfate (1),included
+ST003348_REST_STAT_REC3_secondary,581:Tetracosahexaenoic acid(FFA(24:6),included
+ST003348_REST_STAT_REC3_secondary,582:Tetradecanedioic acid(FFA(14:2-DC),included
+ST003348_REST_STAT_REC3_secondary,583:Tetradecanedioic acid(FFA(14:2-DC) isomer1,included
+ST003348_REST_STAT_REC3_secondary,584:Tetradecanedioic acid(FFA(14:2-DC) isomer2,included
+ST003348_REST_STAT_REC3_secondary,585:Tetradecanedioic acid(FFA(14:2-DC) isomer3,included
+ST003348_REST_STAT_REC3_secondary,586:Threonic acid,included
+ST003348_REST_STAT_REC3_secondary,587:Thymidine,included
+ST003348_REST_STAT_REC3_secondary,588:Tricosanoic acid(FFA(23:0),included
+ST003348_REST_STAT_REC3_secondary,589:Uridine,included
+ST003348_REST_STAT_REC3_secondary,590:Ursocholic acid+Alpha-Muricholic acid+Beta-Muricholic acid,included
+ST003348_REST_STAT_REC3_secondary,591:Ursodeoxycholic acid,included
+ST003348_REST_STAT_REC3_secondary,592:Valeric acid(FFA(5:0),included
+ST003348_REST_STAT_REC3_secondary,593:Valerylglycine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,1:1-Methyladenosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,2:1-Methylguanosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,3:1-Methylhistidine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,4:1-Methylinosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,5:1-Methylnicotinamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,6:1-Pyrroline-5-carboxylic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,7:25-Hydroxyvitamin D3,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,8:2-Amino-5-methylhexanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,9:2-Aminoheptanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,10:2-Aminonicotinic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,11:2-Aminooctanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,12:2-Chlorophenylalanine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,13:2-Methylguanosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,14:2-Oxoarginine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,15:2-Piperidinone,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,16:3-Amino-2-piperidone,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,17:3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid(CMPF),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"18:3-Hydroxy-N6,N6,N6-trimethyl-L-lysine",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,19:3-Methoxytyrosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,20:4-Acetamidobutanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,21:4-Aminoantipyrine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,22:4-Formylaminoantipyrine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,23:4-Pyridoxic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,24:4-Trimethylammoniobutanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,25:5-Hydroxyindoleacetic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,26:5'-Methylthioadenosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"27:7,8-Dihydrobiopterin",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,28:7-Methylguanine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,29:AcCa(12:0)-D9,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,30:AcCa(18:0)-D3,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,31:Adenosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,32:Adipoylcarnitine(AcCa(6:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,33:ADMA+SDMA,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,34:Alanine+Sarcosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,35:alpha-Aminobutyric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,36:Antipyrine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,37:Arachidylcarnitine(AcCa(20:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,38:Asp-Ile,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,39:Asp-Leu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,40:Asp-Phe,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,41:Betaine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,42:Bilirubin,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,43:Biliverdin,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,44:Biliverdin isomer1,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,45:Biliverdin isomer2,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,46:Biliverdin isomer3,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,47:Biotin,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,48:Butenylcarnitine(AcCa(4:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,49:Butyrylcarnitine(AcCa(4:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,50:Caffeine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,51:Choline,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,52:Citrulline,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,53:Clenbuterol-D9,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,54:Cortisol,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,55:Cotinine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,56:Creatine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,57:Creatinine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,58:Cyclandelate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,59:Cytosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,60:Decaethylene Glycol(PEG-10),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,61:Decanoylcarnitine(AcCa(10:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,62:Decenoylcarnitine(AcCa(10:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,63:Decenoylcarnitine(AcCa(10:1) 1,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,64:Decenoylcarnitine(AcCa(10:1) 2,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,65:Decenoylcarnitine(AcCa(10:1) 3,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,66:Dihydrothymine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,67:Dodecaethylene glycol(PEG-12),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,68:Dodecanoylcarnitine(AcCa(12:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,69:Dodecenoylcarnitine(AcCa(12:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,70:Dopamine quinone,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,71:Eicoseneoylcarnitine(AcCa(20:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,72:Gabapentin,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,73:gamma-Glu-Ala,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,74:gamma-Glu-Ile,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,75:gamma-Glu-Leu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,76:gamma-Glu-Met,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,77:gamma-Glu-Phe,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,78:gamma-Glu-Thr,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,79:gamma-Glu-Tyr,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,80:gamma-Glu-Val,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,81:Glp-Gly,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,82:Glu-Leu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,83:Glu-Phe,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,84:Glutarylcarnitine(AcCa(5:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,85:Glycerophosphocholine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,86:Glycerylphosphorylethanolamine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,87:Gly-Glu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,88:Gly-Leu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,89:Gly-Phe,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,90:Hematoporphyrin,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,91:Heptaethylene Glycol(PEG-7),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,92:Hexadecadienoylcarnitine(AcCa(16:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,93:Hexadecenoylcarnitine(AcCa(16:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,94:Hexanoylcarnitine(AcCa(6:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,95:Hexenoylcarnitine(AcCa(6:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,96:Hippuric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,97:Hippuric acid-D5,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,98:His-Trp,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,99:Homo-L-Arg,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,100:Homostachydrine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,101:Human Fibrinopeptide A,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,102:Human Fibrinopeptide B,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,103:Hydroxycotinine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,104:Hydroxyisovaleroyl carnitine(AcCa(5:0-OH),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,105:Hypoxanthine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,106:Icosadienoylcarnitine(AcCa(20:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,107:Icosatrienoylcarnitine(AcCa(20:3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,108:Ile-Gln + Leu-Gln,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,109:Ile-Gly,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,110:Ile-Ile,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,111:Ile-Leu + Leu-Ile,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,112:Ile-Phe,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,113:Ile-Pro,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,114:Ile-Val,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,115:Indole-3-carboxaldehyde,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,116:Indole-3-methyl acetate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,117:Indole-3-propionic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,118:Indoleacetic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,119:Indolelactic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,120:Isobutyrylcarnitine(AcCa(iso4:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,121:Isobutyrylglycine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,122:Isovalerylcarnitine(AcCa(iso5:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,123:Kynurenic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,124:L-Acetylcarnitine(AcCa(2:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,125:L-Arginine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,126:L-Asparagine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,127:L-Aspartic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,128:L-Carnitine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,129:L-Cystine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,130:Leu-Gly,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,131:Leu-Leu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,132:Leu-Phe,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,133:Leu-Pro,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,134:L-Glutamic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,135:L-Glutamine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,136:L-Histidine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,137:Linoleamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,138:Linolenylcarnitine(AcCa(18:3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,139:Linoleoylethanolamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,140:Linoleylcarnitine(AcCa(18:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,141:L-Isoleucine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,142:L-Kynurenine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,143:L-Leucine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,144:L-Lysine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,145:L-Methionine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,146:L-Phenylalanine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,147:L-Proline,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,148:L-Serine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,149:L-Threonine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,150:L-Tryptophan,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,151:L-Tyrosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,152:Lysine-d4,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,153:LysoPC(0:0/14:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,154:LysoPC(0:0/16:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,155:LysoPC(0:0/16:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,156:LysoPC(0:0/18:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,157:LysoPC(0:0/18:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,158:LysoPC(0:0/18:3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,159:LysoPC(0:0/19:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,160:LysoPC(0:0/20:3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,161:LysoPC(0:0/20:4),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,162:LysoPC(0:0/20:5),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,163:LysoPC(0:0/22:4),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,164:LysoPC(14:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,165:LysoPC(15:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,166:LysoPC(15:0p/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,167:LysoPC(16:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,168:LysoPC(16:0e/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,169:LysoPC(16:0p/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,170:LysoPC(16:1/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,171:LysoPC(16:1p),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,172:LysoPC(17:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,173:LysoPC(17:1/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,174:LysoPC(18:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,175:LysoPC(18:0p/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,176:LysoPC(18:1/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,177:LysoPC(18:1p/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,178:LysoPC(18:2/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,179:LysoPC(18:3/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,180:LysoPC(19:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,181:LysoPC(20:1/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,182:LysoPC(20:2/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,183:LysoPC(20:3/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,184:LysoPC(20:4/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,185:LysoPC(20:5/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,186:LysoPC(22:4/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,187:LysoPC(22:5n3/0:0)+LysoPC(0:0/22:5n6),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,188:LysoPC(22:6/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,189:LysoPE(0:0/16:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,190:LysoPE(0:0/18:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,191:LysoPE(0:0/18:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,192:LysoPE(0:0/20:3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,193:LysoPE(0:0/20:4),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,194:LysoPE(0:0/22:5n3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,195:LysoPE(0:0/22:5n6)+LysoPE(22:5n3/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,196:LysoPE(0:0/22:6),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,197:LysoPE(16:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,198:LysoPE(16:0p/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,199:LysoPE(18:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,200:LysoPE(18:0p/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,201:LysoPE(18:1/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,202:LysoPE(18:1p/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,203:LysoPE(18:2/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,204:LysoPE(20:3/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,205:LysoPE(20:4/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,206:LysoPE(22:5n6/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,207:LysoPE(22:6/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,208:Methionine sulfoxide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,209:Methylcysteine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,210:Methylglutarylcarnitine(AcCa(iso6:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,211:Methylimidazoleacetic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,212:Metoprol,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,213:Metronidazole,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,214:N1-Acetylspermidine+N8-Acetylspermidine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,215:N1-Methyl-2-pyridone-5-carboxamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,216:N2-Methylguanine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"217:N2,N2-Dimethylguanosine",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,218:N-(3-acetamidopropyl)pyrrolidin-2-one,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,219:N6-Acetyl-L-lysine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,220:N6-Methyladenosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,221:N(6)-Methyllysine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"222:N6,N6,N6-Trimethyl-L-lysine",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,223:N-a-Acetyl-L-arginine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,224:N-Acetylasparagine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,225:N-Acetylcadaverine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,226:N-Acetylglutamic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,227:N-Acetylglutamine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,228:N-Acetylisoleucine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,229:N-Acetylleucine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,230:N-Acetyl-L-phenylalanine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,231:N-Acetylornithine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,232:N-Acetylputrescine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,233:N-acetyltryptophan,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,234:N-Acetyltyrosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,235:N-gamma-Glu-Gln,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,236:N-Hexosyl Alanine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,237:N-Hexosyl Glutamine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,238:N-Hexosyl Isoleucine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,239:N-Hexosyl Leucine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,240:N-Hexosyl Lysine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,241:N-Hexosyl Phenylalanine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,242:N-Hexosyl Proline,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,243:N-Hexosyl tryptophan,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,244:N-Hexosyl Tyrosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,245:N-Hexosyl Valine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,246:Niacinamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"247:N,N,N-trimethyl-5-aminovaleric acid",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"248:N,N,N-Trimethyl-alanyl-proline betaine",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,249:Nonanoylcarnitine(AcCa(9:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,250:Octadecanamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,251:Octaethylene glycol(PEG-8),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,252:Octanoylcarnitine(AcCa(8:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,253:Octenoylcarnitine(AcCa(8:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,254:Octenoylcarnitine(AcCa(8:1) isomer,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,255:Oleamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,256:Oleoylcarnitine(AcCa(18:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,257:Ornithine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,258:Palmitic amide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,259:Palmitoylcarnitine(AcCa(16:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,260:Palmitoylethanolamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,261:Pantothenic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,262:Pantothenol,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,263:Phe-Glu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,264:Phe-Gly,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,265:Phe-Ile,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,266:Phenylacetylglutamine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,267:Phenylacetylglycine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,268:Phe-Phe,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,269:Phe-Ser,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,270:Phe-Trp,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,271:Phytosphingosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,272:Pipecolic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,273:Porphobilinogen,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,274:Pro-Hyp,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,275:Proline betaine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,276:Propionylcarnitine(AcCa(3:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,277:Propylparaben,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,278:Pyroglutamic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,279:Pyroglutamine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,280:Quinolinic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,281:Ser-Leu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,282:Serotonin,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,283:Ser-Phe,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,284:S-Methylmethionine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,285:Spermidine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,286:Spermine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,287:Sphinganine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,288:Sphinganine 1-phosphate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,289:Sphingosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,290:Sphingosine 1-phosphate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,291:Stearoylcarnitine(AcCa(18:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,292:Stearoylethanolamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,293:Succinylcarnitine(AcCa(4:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,294:Taurine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,295:Taurine-D4,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,296:Tetradecadiencarnitine(AcCa(14:2) 1,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,297:Tetradecaethylene glycol(PEG-14),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,298:Tetradecanoylcarnitine(AcCa(14:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,299:Tetradecenoylcarnitine(AcCa(14:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,300:Tetraethylene glycol(PEG-4),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,301:Theobromine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,302:Theophylline,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,303:Thyroxine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,304:Tiglylcarnitine(AcCa(5:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,305:Tridecanoylcarnitine(AcCa(13:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,306:Trigonelline,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,307:Trimethylamine N-oxide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,308:Tryptamine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,309:Tryptophan 2-C-mannoside,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,310:Tryptophan betaine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,311:Undecanoylcarnitine(AcCa(11:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,312:Uracil,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,313:Urea,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,314:Uric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,315:Uridine+Pseudouridine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,316:Urocanic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,317:Val-Ile + Leu-Val,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,318:Val-Leu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,319:Xanthine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,320:11-HETE,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"321:12,13-DHOME",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,322:12-HETE,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,323:12-Hydroxystearic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,324:14-Hydroxymyristic acid(FFA(14:0-OH),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"325:1,5-Anhydrosorbitol",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,326:15-HETE,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,327:16-Hydroxyhexadecanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"328:1,7-Dimethyluric acid",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"329:2,3-Dihydroxy-5-methylthio-4-pentenoic acid(DMTPA)",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,330:2-Hydroxy-3-methylbutyric acid+3-Hydroxy-3-methylbutyric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,331:2-Hydroxybutyric acid+3-Hydroxybutyric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,332:2-Hydroxydodecanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,333:2-Hydroxyglutaric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,334:2-Hydroxymyristic acid(FFA(14:0-OH),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,335:2-Hydroxystearic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,336:2-Methylcitric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,337:2-O-Methylascorbic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,338:2'-O-Methyluridine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"339:3,4-Dihydroxybutyric acid",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,340:3beta-Hydroxy-5-cholenoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,341:3beta-Hydroxy-5-cholenoic acid glycine conjugate 3-O-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,342:3beta-Hydroxy-5-cholenoic acid taurine conjugate 3-O-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,343:3beta-Hydroxy-5-cholestenoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,344:3b-Hydroxy-5-cholenoic acid glycine conjugate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,345:3-Carboxy-4-methyl-5-pentyl-2-furanpropanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,346:3-Epideoxycholic acidacid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,347:3-Hydroxycapric acid(FFA(10:0-OH),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,348:3-Hydroxydodecanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,349:3-Hydroxyhexadecanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,350:3-Hydroxyhexanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,351:3-Hydroxyhippuric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,352:3-Hydroxymethylglutaric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,353:3-Hydroxymyristic acid(FFA(14:0-OH),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,354:3-Hydroxyoctanoic acid(FFA(8:0-OH),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,355:3-Hydroxypyridine sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,356:3-Hydroxystearic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,357:3-Methyl-2-oxovaleric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,358:3-Methylglutaconic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,359:3-Oxotetradecanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"360:(4E,15E)-Bilirubin IXa",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"361:(4E,15Z)-Bilirubin IXa",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,362:4-Hydroxychlorothalonil,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,363:4-Hydroxyproline,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,364:4-Methylcatechol 1-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,365:4-Methylcatechol 2-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,366:4-Vinylphenol sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"367:5,6-Dihydrouridine",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"368:5alpha-Pregnan-3beta,20alpha-diol disulfate",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,369:5beta-Pregnanediol sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,370:5-HETE,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,371:5-Hydroxyhexadecanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,372:5-Methyluridine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,373:6-Oxopiperidine-2-carboxylic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,374:7alpha-Hydroxy-3-oxo-4-cholestenoate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,375:7alpha-Hydroxy-3-oxo-4-cholestenoate isomer,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"376:9,10-DHOME",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,377:9-Decenoic acid(FFA(10:1n1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,378:9-HODE,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,379:Acesulfame,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,380:Acetylglycine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,381:Allantoin,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,382:alpha-Ketoisovaleric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,383:Alpha-Linolenic acid(FFA(18:3n3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,384:Aminoadipic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,385:Androstenediol disulfate (1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,386:Androstenediol disulfate (2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,387:Androsterone O-glucuronide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,388:Androsterone sulfate (1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,389:Androsterone sulfate (2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,390:Androsterone sulfate (3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,391:Androsterone sulfate (4),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,392:Androsterone sulfate (5),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,393:Arachidic acid(FFA(20:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,394:Arachidonic acid(FFA(20:4),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,395:Ascorbic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,396:Ascorbic acid-2-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,397:Aspirin,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,398:Azelaic acid(FFA(9:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,399:Behenic acid(FFA(22:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,400:Benzeneacetamide-4-O-sulphate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,401:Bromide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,402:Bromo-tryptophan,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,403:Capryloylglycine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,404:CDCA-D4,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,405:Chenodeoxycholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,406:Chenodeoxycholic acid glycine conjugate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,407:Chloramphenicol-D5,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,408:Cholesterol sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,409:cis-Aconitic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,410:Citric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,411:C-Mannosyl Alanine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,412:C-Mannosyl Asparagine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,413:C-Mannosyl Glutamine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,414:C-Mannosyl Glycine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,415:C-Mannosyl Leucine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,416:C-Mannosyl Serine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,417:C-Mannosyl Threonine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,418:C-Mannosyl Valine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,419:Corticosterone,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,420:Cys-Cys,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,421:Cysteine-S-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,422:Daidzein,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,423:Dehydroepiandrosterone sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,424:Deoxycholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,425:Deoxycholic acid glycine conjugate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,426:Deoxycholic acid isomer 1,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,427:Deoxycholic acid isomer 2,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,428:Deoxycholic acid isomer 3,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,429:Desaminotyrosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,430:Dihydronaringenin-O-sulphate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,431:Docosadienoate(FFA(22:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,432:Docosahexaenoic acid(FFA(22:6),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,433:Docosapentaenoic acid(FFA(22:5n3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,434:Docosapentaenoic acid(FFA(22:5n6),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,435:Dodecanedioic acid(FFA(12:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,436:Dodecenoic acid(FFA(12:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,437:EDTA,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,438:Eicosadienoic acid(FFA(20:2n6),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,439:Eicosanedioic acid(FFA(20:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,440:Eicosapentaenoic acid(FFA(20:5),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,441:Eicosatrienoic acid(FFA(20:3n3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,442:Eicosatrienoic acid(FFA(20:3n6),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,443:Eicosatrienoic acid(FFA(20:3n9),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,444:Eicosenoic acid(FFA(20:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,445:Enterolactone sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,446:Erucic acid(FFA(22:1n9),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,447:Ethyl beta-D-glucopyranoside,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,448:Ethylparaben sufate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,449:Fluconazole,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,450:Formiminoglutamic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,451:Fumaric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,452:gamma-CEHC,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,453:gamma-Glu-Gly,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,454:Gluconic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,455:Gluconolactone,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,456:Glucose+myo-Inositol,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,457:Glucuronic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,458:Glutaric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,459:Glycerol,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,460:Glycochenodeoxycholate-3-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,461:Glycocholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,462:Glycodeoxycholate-3-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,463:Glycohyocholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,464:Glycoursodeoxycholate-3-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,465:Glycoursodeoxycholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,466:Heptadecanoic acid(FFA(17:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,467:Heptadecenoic acid(FFA(17:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,468:Hexadecadienoic acid(FFA(16:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,469:Hexadecanedioate(FFA(16:1-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,470:Hexadecanedioic acid(FFA(16:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,471:Hexanoylglycine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"472:Human Fibrinopeptide A residual [2-16, DSGEGDFLAEGGGVR]",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"473:Human Fibrinopeptide B residual [1-13, XGVNDNEEGFFSA]",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,474:Hydroxy-CMPF,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,475:Hydroxyhexadecanoic acid isomer1,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,476:Hydroxyhexadecanoic acid isomer2,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,477:Hyocholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,478:Hyodeoxycholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,479:Imidazolelactic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,480:Indole-3-pyruvic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,481:Iodide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,482:Isooctadecanedioic acid(FFA(18:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,483:Isoursodeoxycholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,484:Lactic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,485:L-Cysteinylglycine disulfide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,486:Leu-Glu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,487:Linoleic acid(FFA(18:2n6),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,488:L-Valine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,489:LysoPA(0:0/18:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,490:LysoPA(0:0/18:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,491:LysoPA(0:0/20:4),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,492:LysoPA(16:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,493:LysoPA(18:1/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,494:LysoPA(18:2/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,495:LysoPA(20:4/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,496:LysoPI(0:0/18:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,497:LysoPI(0:0/18:2),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,498:LysoPI(0:0/20:4),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,499:LysoPI(16:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,500:LysoPI(18:0/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,501:LysoPI(18:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,502:LysoPI(18:2/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,503:LysoPI(20:3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,504:LysoPI(20:4/0:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,505:Malic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,506:Mannitol+Sorbitol,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,507:Methyl beta-D-glucopyranoside,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,508:Methyldodecanoic acid(FFA(13:0-CH3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,509:Methyl hexadecanoic acid(FFA(17:0-CH3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,510:Methylmyristic acid(FFA(15:0-CH3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,511:Methylpyrogallol sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,512:Methylsuccinic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,513:Monoethylhexyl phthalic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,514:Myristoleic acid(FFA(14:1n5),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,515:N4-Acetylsulfamethoxazole,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,516:N5-Acetylornithine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,517:N-Acetylaminooctanoic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,518:N-Acetylglucosamine sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,519:N-Acetyl-L-aspartic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,520:N-Acetyltaurine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,521:N-Acetylthreonine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,522:NegX-RT171MZ00,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,523:NegX-RT295MZ165,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,524:NegX-RT32MZ129,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,525:NegX-RT37MZ197,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,526:NegX-RT385MZ193,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,527:NegX-RT40MZ141,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,528:NegX-RT413MZ424(containing nitrate),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,529:NegX-RT439MZ313,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,530:NegX-RT464MZ239,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,531:NegX-RT539MZ295,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,532:NegX-RT573-C18H34O4,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,533:Nervonic acid(FFA(24:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,534:N-Formyl-L-methionine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,535:N-Oleoyl-Serine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,536:Nonadecenoic acid(FFA(19:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,537:N-Palmitoyl Serine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,538:Octadecanedioic acid(FFA(18:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,539:Octadecendioic acid(FFA(18:1-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,540:Octyl butanoate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,541:Oleic acid(FFA(18:1n9),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,542:Oleoylethanolamide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,543:O-Methoxycatechol-O-sulphate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,544:O-Sulfotyrosine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,545:Oxalic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,546:Oxoglutaric acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,547:Palmitic acid-[13C]16,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,548:Palmitic acid(FFA(16:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,549:Palmitoleic acid(FFA(16:1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,550:Paraxanthine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,551:p-Cresol glucuronide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,552:Pentadecanoic acid(FFA(15:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,553:Perfluorooctanoic acid(PFOA),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,554:Phe-Leu,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,555:Phenyllactic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,556:Phosphate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,557:Pregnandiol sulfate (1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,558:Pregnanediol monosulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,559:Pregnanediol O-glucuronide,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,"560:Pregnenolone-3,21-disulfate",included
+ST003348_REST_REC3_REC22_exploratory_new_visit,561:Pregnenolone sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,562:Propylparaben sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,563:Pyrogallol-1-O-sulphate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,564:Pyrogallol-2-O-sulphate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,565:Pyruvic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,566:Ribonic acid+Xylonate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,567:Ribose,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,568:Stearic acid-D35,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,569:Stearic acid(FFA(18:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,570:Stearidonic acid(FFA(18:4n3),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,571:Steroid-C21H34O3 monosulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,572:Suberic acid(FFA(8:0-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,573:Succinic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,574:Sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,575:Sulfolithocholylglycine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,576:Taurochenodesoxycholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,577:Taurocholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,578:Taurodeoxycholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,579:Taurolithocholic acid 3-sulfate,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,580:Testosterone sulfate (1),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,581:Tetracosahexaenoic acid(FFA(24:6),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,582:Tetradecanedioic acid(FFA(14:2-DC),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,583:Tetradecanedioic acid(FFA(14:2-DC) isomer1,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,584:Tetradecanedioic acid(FFA(14:2-DC) isomer2,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,585:Tetradecanedioic acid(FFA(14:2-DC) isomer3,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,586:Threonic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,587:Thymidine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,588:Tricosanoic acid(FFA(23:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,589:Uridine,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,590:Ursocholic acid+Alpha-Muricholic acid+Beta-Muricholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,591:Ursodeoxycholic acid,included
+ST003348_REST_REC3_REC22_exploratory_new_visit,592:Valeric acid(FFA(5:0),included
+ST003348_REST_REC3_REC22_exploratory_new_visit,593:Valerylglycine,included

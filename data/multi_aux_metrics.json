@@ -1,0 +1,89 @@
+{
+  "seed": 41,
+  "n_folds": 5,
+  "no_outcome_tuning": true,
+  "metrics": [
+    {
+      "study": "894",
+      "times": [
+        30,
+        60,
+        120
+      ],
+      "late": 180,
+      "subjects": 24,
+      "episodes_rows": 96,
+      "features_loaded": 437,
+      "features_eligible_all_folds": 436,
+      "features_scored": 436,
+      "predictive_R2": {
+        "median": 0.3552162175000963,
+        "q90": 0.5247467366444607
+      },
+      "squared_correlation": {
+        "median": 0.3607729196915329,
+        "q90": 0.5259153362004665
+      },
+      "folds": 5,
+      "fold_assignment": "subject-grouped, shuffled once with seed 41",
+      "eligibility": "training-fold finite fraction >= 80% across baseline, auxiliaries, and late outcome",
+      "imputation": "nonfinite abundance values replaced by feature x timepoint median estimated from training subjects only; transform log2(x+1)",
+      "n_train_imputed_total": 0,
+      "n_heldout_imputed_total": 0
+    },
+    {
+      "study": "895",
+      "times": [
+        30,
+        60,
+        120
+      ],
+      "late": 180,
+      "subjects": 24,
+      "episodes_rows": 96,
+      "features_loaded": 424,
+      "features_eligible_all_folds": 423,
+      "features_scored": 423,
+      "predictive_R2": {
+        "median": 0.3915166454183413,
+        "q90": 0.6706428501349424
+      },
+      "squared_correlation": {
+        "median": 0.39645592177072303,
+        "q90": 0.6712833007377559
+      },
+      "folds": 5,
+      "fold_assignment": "subject-grouped, shuffled once with seed 41",
+      "eligibility": "training-fold finite fraction >= 80% across baseline, auxiliaries, and late outcome",
+      "imputation": "nonfinite abundance values replaced by feature x timepoint median estimated from training subjects only; transform log2(x+1)",
+      "n_train_imputed_total": 0,
+      "n_heldout_imputed_total": 0
+    },
+    {
+      "study": "896",
+      "times": [
+        60
+      ],
+      "late": 120,
+      "subjects": 147,
+      "episodes_rows": 147,
+      "features_loaded": 424,
+      "features_eligible_all_folds": 423,
+      "features_scored": 423,
+      "predictive_R2": {
+        "median": 0.28216609504218626,
+        "q90": 0.4490677265406785
+      },
+      "squared_correlation": {
+        "median": 0.2848166150076674,
+        "q90": 0.45056357186701324
+      },
+      "folds": 5,
+      "fold_assignment": "subject-grouped, shuffled once with seed 41",
+      "eligibility": "training-fold finite fraction >= 80% across baseline, auxiliaries, and late outcome",
+      "imputation": "nonfinite abundance values replaced by feature x timepoint median estimated from training subjects only; transform log2(x+1)",
+      "n_train_imputed_total": 0,
+      "n_heldout_imputed_total": 0
+    }
+  ]
+}

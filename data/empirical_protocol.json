@@ -1,0 +1,106 @@
+{
+  "crossed_comparison": "pilot versus held-out oracle slope crossed with pilot policy allocation versus exact finite-pool oracle allocation",
+  "delta_v_grid": [
+    0.36,
+    0.98,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "exact_finite_pool_variance": "Var(mean_N P + mean_k E) = S_P^2(1/N-1/H)+S_E^2(1/k-1/H)+2 S_PE(1/N-1/H); equal-feature scaling uses source target SD",
+  "g_values": [
+    8,
+    12
+  ],
+  "individual_data_exported": false,
+  "intervals": "exploratory finite-pool plug-in intervals conditional on selected policy and pilot slope; normal 1.96 and t with df=min(n-1,k-1) for borrow, n-1 for gold",
+  "nested_random_masks_per_split": 200,
+  "oracle": "diagnostic only; held-out finite-pool slope and exact finite-population risk are used to rank every feasible integer N,k plus matched-gold",
+  "outer_splits": 400,
+  "paid_pilot_size_sensitivity": "m=4/6/8 reoptimized under the total budget for the m=6 design at each g and delta_v; 80 reproducible splits per primary source and condition.",
+  "pilot_m": 6,
+  "post_hoc_policy_diagnostics": "Adjusted R2 is 1-(1-r2)(m-1)/(m-2), clipped feature-wise to [0,1] then averaged. Slope shrinkage uses lambda=(m-2)/(m-1), with allocation optimized using (2lambda-lambda^2) times pilot r2. Adjusted-only, shrink-only, and combined adjusted-R2 plus shrunken-slope policies each re-optimize allocation under the same B; they are exploratory and checked on these same datasets.",
+  "same_roster_target": "pilot target mean weighted m/(m+H) plus held-out policy estimate weighted H/(m+H), compared with no-pilot random full-roster gold sample under full B",
+  "seed": 20261122,
+  "source_hashes_sha256": {
+    "ST003348_quant.json": "f6821b1eecf7f77cee1dd41710b548dc1f3679ced8a1e8ceb271835ec221e55d",
+    "pomet_196764.csv": "17a4e13f368233322c7bb690fdd92445553ab17e5ce56e6a035f38b9b332eafc",
+    "pomet_205866.csv": "77127e4c3fee223fb0f61caaada2593d0ff4fba48d69949048d9f9347a3dfc08",
+    "st003348_factors.json": "e31bb851873fee1d185a2d91d8b5553637145d799793d416ecf2be6c3f8c3329"
+  },
+  "split_protocol": "400 partitions per data source with seed 20261122, generating all PoMet partitions before the ST003348 partitions.",
+  "structures": {
+    "PoMet_196764_sensitivity": {
+      "complete_triplets": 33,
+      "excluded_fully_unmeasured_triplets": 1,
+      "ids_total": 34,
+      "rows_total": 476,
+      "selected_visit_rows": {
+        "1": 34,
+        "7": 34,
+        "8": 34
+      },
+      "time_mapping": {
+        "1": "baseline",
+        "7": "120",
+        "8": "180"
+      }
+    },
+    "PoMet_205866_primary": {
+      "complete_triplets": 33,
+      "excluded_fully_unmeasured_triplets": 1,
+      "ids_total": 34,
+      "rows_total": 476,
+      "selected_visit_rows": {
+        "1": 34,
+        "7": 34,
+        "8": 34
+      },
+      "time_mapping": {
+        "1": "baseline",
+        "7": "120",
+        "8": "180"
+      }
+    },
+    "ST003348_REST_REC3_REC22_exploratory_new_visit": {
+      "factor_quant_sample_count": 76,
+      "factor_quant_sample_mapping_exact": true,
+      "factor_rows": 76,
+      "quant_features": 593,
+      "selected_visits": {
+        "auxiliary": "rec3",
+        "baseline": "rest",
+        "target": "rec22"
+      },
+      "subjects_complete": 19,
+      "unique_selected_samples": 57,
+      "visit_counts_all_factors": {
+        "rec22": 19,
+        "rec3": 19,
+        "rest": 19,
+        "stat": 19
+      }
+    },
+    "ST003348_REST_STAT_REC3_secondary": {
+      "factor_quant_sample_count": 76,
+      "factor_quant_sample_mapping_exact": true,
+      "factor_rows": 76,
+      "quant_features": 593,
+      "selected_visits": {
+        "auxiliary": "stat",
+        "baseline": "rest",
+        "target": "rec3"
+      },
+      "subjects_complete": 19,
+      "unique_selected_samples": 57,
+      "visit_counts_all_factors": {
+        "rec22": 19,
+        "rec3": 19,
+        "rest": 19,
+        "stat": 19
+      }
+    }
+  },
+  "target_availability": "The retrospective panel contains features with complete positive values at all required visits. Counts and reasons for exclusion are reported. This panel defines the analytical sample.",
+  "uncertainty": "mask percentiles characterize randomization conditional on split; split percentiles characterize repeated random partitions of the same small cohort, not population CIs; leave-one-participant-out sensitivity uses 20 splits per deletion for PoMet primary and ST main at selected costs"
+}

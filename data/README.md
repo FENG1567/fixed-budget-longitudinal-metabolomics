@@ -1,0 +1,21 @@
+# Author-produced aggregate results
+
+The datasets in this directory are licensed by Shuo Feng and co-authors under [Creative Commons Attribution 4.0 International](LICENSE). Cite the research team, the release version and the corresponding source studies. The provider retains the applicable rights in the original measurements. [Source records](../DATA_SOURCES.md)
+
+| Files | Article link and generation |
+|---|---|
+| `profile_estimates.csv`, `paired_cluster_fdr_summary.csv` | Table 1, Figure 2 and S3. Participant counts, visit units, feature denominators, feature-median squared correlations and participant-bootstrap limits. The FDR table distinguishes overlap of early/late significance lists from a direct paired contrast. `reproduce.py profiles`. |
+| `summary_policy_cross.csv`, `split_policy_cross.csv` | Table 2, Figure 3 and S4. Aggregate MSE variants, allocation and slope comparisons, selection frequencies and interval diagnostics. Split rows summarize all eligible features and masks for that split. `reproduce.py empirical`. |
+| `availability_flow.csv`, `feature_availability.csv` | S4. Roster and feature flow plus per-feature eligibility status. In the primary PoMet panel the 41 listed assay fields become 39 protocol-eligible fields and 37 included analytes. `reproduce.py empirical`. |
+| `lopo_policy_sensitivity.csv`, `m_sensitivity_summary.csv`, `m_sensitivity_split.csv`, `pomet_feature_sensitivity.csv` | S4. Leave-one-participant sensitivity summaries, pilot-size checks and feature-level loss under alternate weighting. `reproduce.py empirical`. |
+| `empirical_integer_design_grid.csv` | S1/S4. The 40 feasible-domain summaries, thresholds and observed allocation/risk columns. `reproduce.py display` re-enumerates the designs and joins the released replay summaries. |
+| `operational_policy_metrics.csv`, `operational_design_grid.csv` | Figure 4 and S5. Synthetic absolute MSE, bias, Monte Carlo uncertainty, coverage, failures, sample sizes and feasible design counts. `reproduce.py simulation`. |
+| `cost_scenarios.csv`, `cost_scenario_summary.csv`, `cost_price_sensitivity.csv` | S2 and Supplementary Table S1. Analytic cost examples and illustrated component/assay price scenarios. `reproduce.py cost`. The `legacy_*` columns retain the historical calibration for traceability. The manuscript uses cost-threshold crossings at fixed hypothetical squared correlations. |
+| `multi_aux_metrics.json` | S3. Out-of-fold predictive R² and squared correlation across features. `reproduce.py multi-aux`. |
+| `s3_panel_checks.csv`, `raw_summary_894.json`, `raw_summary_895.json` | S3. Feature selection and transfer checks and the exploratory raw-MS1 mass-window summaries. See the panel and MS1 workflow instructions. |
+| `interleaved_summary.csv` | S4. Results for the sensitivity using alternating PoMet and exercise partitions. `reproduce.py interleaved`. |
+| `long_visit_replay.csv`, `zenodo_lunch_replay.csv` | S6 and Supplementary Table S2. Independent protocol examples and stratified exploratory replay risk. `reproduce.py long-visit` and `reproduce.py zenodo`. |
+| `figure_inputs.json`, `empirical_protocol.json` | Figure display settings with numeric summaries and the archived empirical replay protocol. The display stage recalculates the plotted estimates from CSV. The empirical stage writes its run configuration as `protocol.json`. |
+| `table1_profiles.csv`, `table2_policies.csv` | Machine-readable versions of the main tables, at source precision. `reproduce.py display`. |
+
+`delta_v` is the incremental visit-extension cost in assay units. `g` is direct-sample capacity after paying for the pilot. `N` is the first-phase sample size and `k` is the late observation count. `H` is the eligible held-out roster size. `NA` in the integer grid indicates that the feasible domain has no crossing strictly below squared correlation 1. `rho2` and feature-level predictive `R²` are distinct quantities. Replay MSE is in squared late-change standard deviation units except fields named `raw_unit_*`. Split percentiles describe the partitions of each study roster. A blank empirical field indicates that the given estimate or diagnostic was unavailable for that row; a blank price in the price grid designates the scenario with a uniformly varying assay price.

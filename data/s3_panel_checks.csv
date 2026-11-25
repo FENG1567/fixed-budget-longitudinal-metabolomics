@@ -1,0 +1,7 @@
+check,value
+five_fold_ST003894_top20_rho2,0.7204240633695556
+half_split_ST003894_top20_mean_rho2,0.6042421698453757
+half_split_ST003894_top20_mean_jaccard,0.26096535632825957
+cross_study_shared_feature_count,422
+cross_study_ST003895_to_ST003896_top20_rho2,0.2986973978899614
+cross_study_ST003896_to_ST003895_top20_rho2,0.4369987955388294
